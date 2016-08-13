@@ -9,7 +9,7 @@
   "author": "Hershal Bhave",
   "license": "ISC",
   "dependencies": {
-    "cli-table": "^0.3.1",
+    "cli-table2": "^0.2.0",
     "lodash": "^4.15.0",
     "whoshome": "0.0.2"
   },
