@@ -15,5 +15,15 @@
   },
   "bin": {
     "whoshome": "./index.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hershal/whoshome-cli.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hershal/whoshome-cli/issues"
+  },
+  "homepage": "https://github.com/hershal/whoshome-cli#readme"
 }
