@@ -12,5 +12,8 @@
     "cli-table": "^0.3.1",
     "lodash": "^4.15.0",
     "whoshome": "0.0.2"
+  },
+  "bin": {
+    "whoshome": "./index.js"
   }
 }
