@@ -27,7 +27,7 @@ function printTable(people) {
           .value();
 
   let table = new cliTable({head: wifiHeader, chars: {'mid': '', 'left-mid': '', 'mid-mid': '', 'right-mid': ''}});
-  wiredPeople.forEach((p) => table.push(p));
   wifiPeople.forEach((p) => table.push(p));
+  wiredPeople.forEach((p) => table.push(p));
   console.log(table.toString());
 }
