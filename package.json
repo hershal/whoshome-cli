@@ -11,7 +11,7 @@
   "dependencies": {
     "cli-table2": "^0.2.0",
     "lodash": "^4.15.0",
-    "whoshome": "0.0.3"
+    "whoshome": "0.1.0"
   },
   "bin": {
     "whoshome": "./index.js"
