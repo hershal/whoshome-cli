@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const cliTable = require('cli-table2');
+const cliTable = require('cli-table3');
 const whoshome = require('whoshome')();
 const _ = require('lodash');
 
